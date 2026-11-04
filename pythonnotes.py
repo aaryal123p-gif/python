@@ -53,3 +53,23 @@ print(age + 10)
 # 04
 # You'll reach for a list any time you say "a bunch of..." or "a list of..."
 
+# 12. IMPORTANT RULES
+# - Use a colon (:) after for and while.
+# - Indent the loop body by 4 spaces.
+# - range() does not include its stop value.
+# - Update the condition variable in a while loop.
+# - Ctrl + C stops a running infinite loop.
+
+#1. Types of Functions
+#- Built-in functions: Predefined functions in Python.
+#- User-defined functions: Functions created by programmers.
+#- Methods: Functions associated with objects.
+
+
+# Important Things to Remember
+# 1. input() always returns a string.
+# 2. Use int() to convert input into an integer.
+# 3. sorted() returns a new sorted list.
+# 4. sort() modifies the original list.
+# 5. len() returns the number of elements.
+# 6. min() and max() find the smallest and largest values.
